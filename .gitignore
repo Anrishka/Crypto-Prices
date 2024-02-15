@@ -1,0 +1,4 @@
+build/
+dist/
+Crypto_prices.spec
+API.py
